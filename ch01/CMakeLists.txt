@@ -1,0 +1,10 @@
+include_directories(${HEAD})
+
+add_executable(1-3 ${SRC} 1-3.c)
+add_executable(1-4 ${SRC} 1-4.c)
+add_executable(1-5 ${SRC} 1-5.c)
+add_executable(1-6 ${SRC} 1-6.c)
+add_executable(1-7 ${SRC} 1-7.c)
+add_executable(1-8 ${SRC} 1-8.c)
+add_executable(1-9 ${SRC} 1-9.c)
+add_executable(1-10 ${SRC} 1-10.c)
